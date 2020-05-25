@@ -21,5 +21,5 @@ IBM Quantum ExperienceのNoteboooksへのxxx.ipynbファイルの取り込み方
 
 
 ## ハンズオンコンテンツ
-1. [超入門ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/introduction)
+1. [超入門ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/handson-contents)
 2. [量子テレポーテーション/超密度符号ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/teleportation)
