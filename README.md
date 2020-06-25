@@ -17,9 +17,10 @@ jupyter notebook
 IBM Quantum ExperienceのNoteboooksへのxxx.ipynbファイルの取り込み方：
 
 このページの
-緑色の「Clone or download」アイコンからローカルにファイルをダウンロードします。その後、IBM Quantum Experience のNotebooksの一覧画面で「Import」からファイルを指定し取り込みます。
+緑色の「Clone」アイコンからローカルにファイルをダウンロードします。その後、IBM Quantum Experience のNotebooksの一覧画面で「Import」からファイルを指定し取り込みます。
 
 
 ## ハンズオンコンテンツ
 1. [超入門ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/handson-contents)
 2. [量子テレポーテーション/超密度符号ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/teleportation)
+3. [ドイチ・ジョザのアルゴリズム/ベルンシュタイン・ヴァジラニのアルゴリズム ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/deutsch)]
