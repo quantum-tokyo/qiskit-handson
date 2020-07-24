@@ -23,4 +23,5 @@ IBM Quantum ExperienceのNoteboooksへのxxx.ipynbファイルの取り込み方
 ## ハンズオンコンテンツ
 1. [超入門ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/handson-contents)
 2. [量子テレポーテーション/超密度符号ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/teleportation)
-3. [ドイチ・ジョザのアルゴリズム/ベルンシュタイン・ヴァジラニのアルゴリズム ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/deutsch)]
+3. [ドイチ・ジョザのアルゴリズム/ベルンシュタイン・ヴァジラニのアルゴリズム ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/deutsch)
+4. [量子フーリエ変換 ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/fourier)
