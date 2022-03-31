@@ -1,5 +1,21 @@
 # qiskit-handson
 
+## ハンズオンコンテンツ
+### Qiskitハンズオン
+1. [超入門ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/handson-contents)
+2. [量子テレポーテーション/超密度符号ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/teleportation)
+3. [ドイチ・ジョザのアルゴリズム/ベルンシュタイン・ヴァジラニのアルゴリズム ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/deutsch)
+4. [量子フーリエ変換 ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/fourier)
+5. [サイモンのアリゴリズム ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/simon)
+
+### [Quantum Composer](https://quantum-computing.ibm.com/composer)ハンズオン
+1. [量子テレポーテーション(中高生向け)](./composer/20200821_FamilyDay_quantum_ja.pdf)
+2. [グローバーのアルゴリズム](./composer/20220331_IQX_grover.pdf)
+
+### 数学ハンズオン
+作成中。
+<br>
+<br>
 ## Qiskitのインストール
 Qiskitのインストールはこちらから：https://qiskit.org/documentation/locale/ja_JP/install.html
 
@@ -10,21 +26,7 @@ jupyter notebook
 ```
 
 
-## Qiskitのインストールがまだの方
-[IBM Quantum Experience](https://quantum-computing.ibm.com/) のNoteboooksからQiskitの実行ができます。
+## インストールせずにIBM Quantum Labから実行
+[IBM Quantum](https://quantum-computing.ibm.com/) 上のIBM Quantum LabからQiskitの実行ができます。
 
-
-IBM Quantum ExperienceのNoteboooksへのxxx.ipynbファイルの取り込み方：
-
-このページの
-緑色の「Clone」アイコンからローカルにファイルをダウンロードします。その後、IBM Quantum Experience のNotebooksの一覧画面で「Import」からファイルを指定し取り込みます。
-
-
-## ハンズオンコンテンツ
-1. [超入門ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/handson-contents)
-2. [量子テレポーテーション/超密度符号ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/teleportation)
-3. [ドイチ・ジョザのアルゴリズム/ベルンシュタイン・ヴァジラニのアルゴリズム ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/deutsch)
-4. [量子フーリエ変換 ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/fourier)
-5. [サイモンのアリゴリズム ハンズオン](https://github.com/quantum-tokyo/qiskit-handson/tree/master/simon)
-
-そのほか：[中高生向けコンテンツ](https://github.com/quantum-tokyo/qiskit-handson/tree/master/outreach)
+IBM Quantum Labへのxxx.ipynbファイルの取り込み方：このページの右上の緑色の「Code」アイコンからローカルにZIPファイルをダウンロードします。その後、IBM Quantum Lab上でFile一覧上部にある上矢印アイコン「Upload Files」からファイルを指定し取り込みます。
