@@ -12,6 +12,9 @@
 1. [量子テレポーテーション(中高生向け)](./composer/20200821_FamilyDay_quantum_ja.pdf)
 2. [グローバーのアルゴリズム](./composer/20220331_IQX_grover.pdf)
 
+### 特別企画
+1. [小中学生向け：量子コンピューターで遊ぼう 〜春休み特別企画〜 ](https://github.com/quantum-tokyo/qiskit-handson/blob/master/for_junior/20210402_hello_quantum.pdf)
+
 ### 数学ハンズオン
 作成中。
 <br>
